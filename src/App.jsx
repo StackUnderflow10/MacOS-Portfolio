@@ -1,6 +1,9 @@
 import { Navbar,Welcome,Dock } from '#components'
-import React from 'react'
+import { Terminal } from '#windows'
+import gsap from 'gsap'
 
+import { Draggable } from 'gsap/draggable'
+gsap.registerPlugin(Draggable)
 
 const App = () => {
   return (
@@ -8,6 +11,8 @@ const App = () => {
       <Navbar />
       <Welcome />
       <Dock />
+
+      <Terminal />
     </main>
   )
 }

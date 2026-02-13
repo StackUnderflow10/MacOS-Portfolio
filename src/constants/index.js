@@ -102,27 +102,27 @@ const blogPosts = [
 const techStack = [
   {
     category: "Frontend",
-    items: ["React.js", "Next.js", "TypeScript"],
+    items: ["React.js", "Next.js"],
   },
   {
-    category: "Mobile",
-    items: ["React Native", "Expo"],
+    category: "Languages",
+    items: ["C++", "Java", "Python", "JavaScript", "C#"],
   },
   {
     category: "Styling",
-    items: ["Tailwind CSS", "Sass", "CSS"],
+    items: ["Tailwind CSS", "CSS"],
   },
   {
-    category: "Backend",
-    items: ["Node.js", "Express", "NestJS", "Hono"],
+    category: "Backend & APIs",
+    items: ["Node.js", "Express", "Flask", "FastAPI"],
   },
   {
     category: "Database",
-    items: ["MongoDB", "PostgreSQL"],
+    items: ["MongoDB", "MySQL", "Firestore"],
   },
   {
     category: "Dev Tools",
-    items: ["Git", "GitHub", "Docker"],
+    items: ["Git", "GitHub", "Docker", "Firebase", "Postman"],
   },
 ];
 
@@ -181,19 +181,19 @@ const photosLinks = [
 const gallery = [
   {
     id: 1,
-    img: "/images/gal1.png",
+    img: "/images/venom_5.png",
   },
   {
     id: 2,
-    img: "/images/gal2.png",
+    img: "/images/venom_2.png",
   },
   {
     id: 3,
-    img: "/images/gal3.png",
+    img: "/images/g-admin2.png",
   },
   {
     id: 4,
-    img: "/images/gal4.png",
+    img: "/images/g-admin.png",
   },
 ];
 
@@ -363,7 +363,7 @@ const WORK_LOCATION = {
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://github.com/StackUnderflow10/venom",
+          href: "https://drive.google.com/file/d/142Eef4OFkgnRRe1f0LQTQQgYp6POHLq8/view?usp=sharing",
           position: "top-10 right-20",
         },
         {

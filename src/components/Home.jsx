@@ -1,6 +1,6 @@
 import { locations } from "#constants"
 import { useGSAP } from "@gsap/react"
-import Draggable from "gsap/draggable"
+import { Draggable } from "gsap/Draggable"
 import clsx from "clsx"
 import useWindowStore from "#store/window"
 import useLocationStore from "#store/location"

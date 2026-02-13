@@ -2,7 +2,7 @@ import useWindowStore from "#store/window"
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { useLayoutEffect, useRef } from "react";
-import { Draggable } from "gsap/draggable";
+import { Draggable } from "gsap/Draggable";
 
 const WindowWrapper = (Component, windowKey) => {
 

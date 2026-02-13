@@ -77,25 +77,25 @@ const dockApps = [
 const blogPosts = [
   {
     id: 1,
-    date: "Sep 2, 2025",
+    date: "Jan 31, 2026",
     title:
-      "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
-    image: "/images/blog1.png",
-    link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
+      "Full-stack food ordering platform with admin dashboard, role-based authentication, and real-time order management.",
+    image: "/images/GreenPlate_logo.png",
+    link: "https://github.com/GreenPlateByCodeNewbies",
   },
   {
     id: 2,
     date: "Aug 28, 2025",
-    title: "The Ultimate Guide to Mastering Three.js for 3D Development",
-    image: "/images/blog2.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-three-js-for-3d-development",
+    title: "Automated attendance management system built as a scalable backend service.",
+    image: "/images/Sup.png",
+    link: "https://github.com/StackUnderflow10/venom",
   },
   {
     id: 3,
-    date: "Aug 15, 2025",
-    title: "The Ultimate Guide to Mastering GSAP Animations",
-    image: "/images/blog3.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+    date: "Sep 28, 2025",
+    title: "Search engine for verified student discounts using .edu.in email authentication.",
+    image: "/images/sdf.png",
+    link: "https://github.com/StackUnderflow10/student-discount-finder",
   },
 ];
 
@@ -373,7 +373,7 @@ const WORK_LOCATION = {
           kind: "file",
           fileType: "img",
           position: "top-52 right-80",
-          imageUrl: "/images/project-3.png",
+          imageUrl: "/images/supvision.png",
         },
         {
           id: 5,

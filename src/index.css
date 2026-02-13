@@ -21,7 +21,7 @@ body {
 
 @utility flex-center {
   @apply flex items-center justify-center;
-}
+}s
 
 @utility col-center {
   @apply flex flex-col items-center justify-center;
